@@ -16,10 +16,14 @@ involved as many countries had no records before 2010.Some countries did not hav
 from 2011-2021 but these were still included as it provided valuable data and as averages were used 
 was still credible data for plots.
 
-![Screenshot (4)](https://github.com/ethanm32/Data-Visualisation-Human-happiness/assets/57529120/7339ff1e-88cc-42e1-b6db-79d110e460d2)
+**Some relationships from the data**
 
+![Screenshot (3)](https://github.com/ethanm32/Data-Visualisation-Human-happiness/assets/57529120/f95196bd-3cdd-4c4b-af31-3c1b83867890)
+
+
+![Screenshot (4)](https://github.com/ethanm32/Data-Visualisation-Human-happiness/assets/57529120/33165bec-f125-4a99-8b9c-057f94cb9622)
+
+![Screenshot (5)](https://github.com/ethanm32/Data-Visualisation-Human-happiness/assets/57529120/aadfc14d-f57e-4562-9dff-f8c9535995c0)
 
 ![Screenshot (6)](https://github.com/ethanm32/Data-Visualisation-Human-happiness/assets/57529120/3bce4331-efb6-4121-aece-1a24b5974804)
 ub.com/ethanm32/Data-Visualisation-Human-happiness/assets/57529120/fa9a028d-c328-48f0-9200-dc085014cdc3)
-(3)](https://github.com/ethanm32/Data-Visualisation-Human-happiness/assets/57529120/a0bddd27-9bcb-4810-9208-f0f423ea3c09)
-![Screenshot (4)](https://github.com/ethanm32/Data-Visualisation-Human-happiness/assets/57529120/fdbb3c2c-fde3-47ee-a494-130567ea7255)
